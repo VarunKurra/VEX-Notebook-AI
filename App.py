@@ -110,7 +110,7 @@ def main():
     user_question = st.text_input("What do you want to analyze about your VEX Notebook? (Ex. Does it follow VEX Guidelines?):")
 
     if st.button("Ask AI") and user_question.strip() != "":
-        with st.spinner("Querying AI..."):
+        with st.spinner("Analyzing Notebook..."):
             answer = ask_ai(user_question, combined_context)
         st.markdown("### 🤖 AI Response:")
         st.write(answer)
