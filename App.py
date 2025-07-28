@@ -4,7 +4,7 @@ import cohere
 import streamlit as st
 
 # === CONFIGURATION ===
-COHERE_API_KEY = "7WgKL5QpJ2b2dh9OrbYRKmNSRPbyEpRlPoTMxAvD"  # Use your real key here
+COHERE_API_KEY = ""  # Use your real key here
 COHERE_MODEL = "command-r"
 PDF_FOLDER = "pdf_data"
 
