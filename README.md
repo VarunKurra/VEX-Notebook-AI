@@ -112,7 +112,7 @@ Then open the local URL that appears (typically `http://localhost:8501`) in your
 
 ## 📬 Contact / Support
 
-For questions, feedback, or feature requests, open an issue or email `youremail@example.com`.
+For questions, feedback, or feature requests, open an issue or email `kurrav9605@parkwayschools.net`.
 
 ---
 
