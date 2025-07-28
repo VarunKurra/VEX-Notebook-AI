@@ -1,6 +1,6 @@
-# ![VEX Notebook AI](Icon.png)
-
 # 🧠 VEX Notebook AI – Analyze, Score, and Improve VEX Robotics Notebooks with AI
+
+<img src="Icon.png" alt="VEX Notebook AI Icon" width="150"/>
 
 Welcome to **VEX-Notebook-AI**, a Streamlit-based app that helps students and teams analyze their engineering notebook PDFs using official VEX judging rubrics and generate high-quality essay-style feedback with the power of large language models.
 
